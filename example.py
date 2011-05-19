@@ -32,7 +32,7 @@ for i in range(3):
 
 #eventos independentes
 
-for i in range(3):
+for i in range(4):
     @Uncertainty("Add Africa t = %i"%i, t=0)
     def f():
         Contract("Africa %i"%i, start=2011+i, duration=i, revenue=7,
