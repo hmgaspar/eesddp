@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:example.py">
+   </FileRef>
+   <FileRef
+      location = "group:run.py">
+   </FileRef>
+   <FileRef
+      location = "group:era.py">
+   </FileRef>
+   <FileRef
+      location = "group:plot.py">
+   </FileRef>
+</Workspace>
